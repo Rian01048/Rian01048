@@ -22,18 +22,14 @@
 - 🚀 **[Agência PRO DESIGN](https://site-rian01048-rian01048s-projects.vercel.app/?_vercel_share=RRqPSc7sz8uNA5CGcv6lAAWeyyi9yfPg)**: Breve descrição do projeto (Landing page criada com HTML, CSS e JS puro).
 - 💻 **[CenterPets](https://atividade-two-woad.vercel.app/?_vercel_share=qHRkgM6KurOrcSOWJfpP7YZ0AzJmjRVW)**: Breve descrição do projeto (Ideia para uma solução de um problema social real).
 
-# 👋 Olá! Seja bem-vindo(a) ao meu perfil
-
-Desenvolvedor Front-End com conhecimentos em HTML, CSS, JavaScript e React. Combino um perfil analítico e observador com foco nos detalhes para construir aplicações web bem estruturadas, funcionais e com ótima experiência de usuário.
-
----
+<br>
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rian01048&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas de Rian01048" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Rian01048&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas de Rian01048" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian01048&layout=compact&theme=nord&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rian01048&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
 </div>
 
 <br>
@@ -42,7 +38,7 @@ Desenvolvedor Front-End com conhecimentos em HTML, CSS, JavaScript e React. Comb
 
 <div align="center">
   <a href="https://github.com/Rian01048?tab=followers" target="_blank">
-    <img src="https://img.shields.io/badge/FOLLOWERS-SEU__GITHUB-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub Followers" />
+    <img src="https://img.shields.io/badge/FOLLOWERS-RIAN01048-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub Followers" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/riansilva_2006/" target="_blank">
