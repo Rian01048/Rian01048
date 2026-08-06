@@ -21,4 +21,4 @@
 ### 📁 Meus Projetos Principais
 
 - 🚀 **[Agência PRO DESIGN](https://site-rian01048-rian01048s-projects.vercel.app/?_vercel_share=RRqPSc7sz8uNA5CGcv6lAAWeyyi9yfPg)**: Breve descrição do projeto (Landing page criada com HTML, CSS e JS puro).
-- 💻 **[Nome do Projeto 2](https://atividade-two-woad.vercel.app/?_vercel_share=qHRkgM6KurOrcSOWJfpP7YZ0AzJmjRVW)**: Breve descrição do projeto (Ideia para uma solução de um problema real).
+- 💻 **[CenterPets](https://atividade-two-woad.vercel.app/?_vercel_share=qHRkgM6KurOrcSOWJfpP7YZ0AzJmjRVW)**: Breve descrição do projeto (Ideia para uma solução de um problema social real).
