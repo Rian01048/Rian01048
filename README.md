@@ -21,3 +21,7 @@
 
 - 🚀 **[Agência PRO DESIGN](https://site-rian01048-rian01048s-projects.vercel.app/?_vercel_share=RRqPSc7sz8uNA5CGcv6lAAWeyyi9yfPg)**: Breve descrição do projeto (Landing page criada com HTML, CSS e JS puro).
 - 💻 **[CenterPets](https://atividade-two-woad.vercel.app/?_vercel_share=qHRkgM6KurOrcSOWJfpP7YZ0AzJmjRVW)**: Breve descrição do projeto (Ideia para uma solução de um problema social real).
+
+<div align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM0NTY3ODkwMTIzNDU2Nzg5MDEyMzQ1Njc4OTAxMjM0NTY3ODkwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/3o7TKrEzvLbsVAud8I/giphy.gif" width="150" />
+</div>
