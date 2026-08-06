@@ -23,26 +23,34 @@
 - 💻 **[CenterPets](https://atividade-two-woad.vercel.app/?_vercel_share=qHRkgM6KurOrcSOWJfpP7YZ0AzJmjRVW)**: Breve descrição do projeto (Ideia para uma solução de um problema social real).
 
 
-<!-- Estatísticas de Perfil -->
+# 👋 Olá! Seja bem-vindo(a) ao meu perfil
+
+Desenvolvedor Front-End com conhecimentos em HTML, CSS, JavaScript e React. Combino um perfil analítico e observador com foco nos detalhes para construir aplicações web bem estruturadas, funcionais e com ótima experiência de usuário.
+
+---
+
+### 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Rafael Francisco's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rian01048&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=nord&hide_border=true&langs_count=6" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian01048&layout=compact&theme=nord&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
 </div>
 
 <br>
 
-<!-- Badges de Links -->
+### 🌐 Conecte-se comigo
+
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO_AQUI?tab=followers">
+  <a href="https://github.com/Rian01048?tab=followers">
     <img src="https://img.shields.io/badge/FOLLOWERS-5-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub Followers" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/RAFATECH1101">
+  <a href="https://www.instagram.com/riansilva_2006">
     <img src="https://img.shields.io/badge/INSTAGRAM-@RAFATECH1101-333333?style=for-the-badge&logo=instagram&logoColor=white&labelColor=555555" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/RAFAEL-FRANCISCO17">
+  <a href="www.linkedin.com/in/rian-souza-silva-05b963379">
     <img src="https://img.shields.io/badge/LINKEDIN-RAFAEL--FRANCISCO17-333333?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn" />
   </a>
 </div>
