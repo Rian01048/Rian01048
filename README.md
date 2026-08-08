@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20World!&fontSize=50&animation=fadeIn" width="100%" />
+</p>
+
 # 👋 Olá! Seja bem-vindo(a) ao meu perfil
 
 Desenvolvedor com conhecimentos em HTML, CSS, JavaScript, Python e C#. Combino um perfil analítico e observador com foco nos detalhes para construir aplicações bem estruturadas, funcionais e com ótima experiência de usuário.
@@ -36,4 +40,3 @@ Desenvolvedor com conhecimentos em HTML, CSS, JavaScript, Python e C#. Combino u
     <img src="https://img.shields.io/badge/LINKEDIN-RIAN--SOUZA--SILVA-333333?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn" />
   </a>
 </div>
-
