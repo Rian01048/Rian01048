@@ -8,22 +8,26 @@ Desenvolvedor com conhecimentos em HTML, CSS, JavaScript, Python e C#. Combino u
 
 ---
 
+### 💻 Linguagens e Tecnologias
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
+</div>
+
+<br>
+
+---
+
 ### 🚀 Meus Projetos
 
 - 🎨 **[Agência PRO DESIGN](https://site-rian01048-rian01048s-projects.vercel.app/?_vercel_share=RRqPSc7sz8uNA5CGcv6lAAWeyyi9yfPg)** — Site institucional para agência de design web e soluções digitais.
 - 🐾 **[CenterPets](https://atividade-two-woad.vercel.app/?_vercel_share=qHRkgM6KurOrcSOWJfpP7YZ0AzJmjRVW)** — Aplicação web para serviços e cuidados com animais de estimação.
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Rian01048&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas de Rian01048" />
-  &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rian01048&layout=compact&theme=nord&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
-</div>
-
-<br>
 
 ### 🌐 Conecte-se comigo
 
